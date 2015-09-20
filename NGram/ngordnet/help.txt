@@ -1,0 +1,2 @@
+[quit: program exxits] [help: Provides a list of commands]
+[range [start] [end]: resets the start and teh end yers, affects only future plots] [count[word][year]: proing the count of word in the given year] [hyponyms[word]: prints all hyponyms of the given word] [history [words ...]: prints all the words from start to end] [hypohist[words ...]: plots relative frequency of all hyponyms of words from start to end][wordlength: plots relative length of all words][zipf year:plots the count (or weight) of every word vs. its rank on a log log plot]
